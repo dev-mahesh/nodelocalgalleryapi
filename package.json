@@ -1,12 +1,12 @@
 {
   "name": "getallfiles",
   "version": "1.0.0",
-  "description": "",
+  "description": "Get local folder images (files) with node.js, express.js api",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Mahesh Bodhgire - maheshbodhagire@gmail.com",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
